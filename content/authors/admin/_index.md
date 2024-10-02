@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Tianxiang Zhang 张天翔
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianxiang
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,11 +17,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Wuhan University
     url: https://openai.com/
 
 # Social network links
