@@ -52,37 +52,24 @@ interests:
   - Robotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. in Computer Application Technology
+    institution: LIESMARS, Wuhan University
+    date_start: 2023-09-01
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Supervised by [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: B.S. in Electronic Engineering
+    institution: Electronic Information School, Wuhan University
+    date_start: 2019-09-01
+    date_end: 2023-6-30
     summary: |
-      GPA: 3.8/4.0
-
+      GPA: 3.91/4.0
+      Rank: 7/123
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Robotics, Artificial Intelligence, Image Analysis, Embedded system, Signal Process
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology
@@ -93,17 +80,6 @@ work:
     summary: |2-
       Automated Valet Parking (AVP):
       - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
