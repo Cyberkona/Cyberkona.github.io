@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Tianxiang Zhang's Homepage"
+      filename: brands/github
 
 # Site footer
 footer:
