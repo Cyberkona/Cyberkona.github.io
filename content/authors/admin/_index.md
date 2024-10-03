@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+- Tianxiang Zhang is a second-year Master student in **[State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)**. He obtained Bachelor of Engineering in **Electronic Information School of Wuhan University**, and received the honour of **Outstanding Graduate**.
+
+- His research interests include **Multi-Sensor Fusion SLAM**, **3D Reconstruction**, **Robotics**.
