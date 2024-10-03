@@ -58,9 +58,9 @@ education:
     date_end: present
     summary: |
       Supervised by [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm).
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: B.S. in Electronic Engineering
     institution: Electronic Information School, Wuhan University
     date_start: 2019-09-01
@@ -68,12 +68,13 @@ education:
     summary: |
       GPA: 3.91/4.0
       Rank: 7/123
+
       Courses included:
       - Robotics, Artificial Intelligence, Image Analysis, Embedded system, Signal Process
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology
-    company_url: https://en.megvii.com/megvii_research
+    company_url: ''
     company_logo: ''
     date_start: 2022-11-15
     date_end: 2023-3-15
