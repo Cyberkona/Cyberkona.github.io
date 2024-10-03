@@ -84,17 +84,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Autopilot Algorithm Engineer Intern
+    company_name: Research Institute, MEGVII Technology
+    company_url: https://en.megvii.com/megvii_research
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-11-15
+    date_end: 2023-3-15
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Automated Valet Parking (AVP):
+      - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
