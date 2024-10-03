@@ -85,14 +85,14 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Autopilot Algorithm Engineer Intern
-    company_name: MEGVII Research Institute (Shanghai)
+    company_name: Research Institute, MEGVII Technology (Shanghai)
     company_url: ''
     company_logo: ''
     date_start: 2022-11-15
-    date_end: ''
+    date_end: 2023-03-15
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Automated Valet Parking (AVP):
+      - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
