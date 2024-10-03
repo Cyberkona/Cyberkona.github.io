@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Tianxiang Zhang's Homepage"
-      filename: brands/github
+      filename: mario
 
 # Site footer
 footer:
