@@ -55,7 +55,7 @@ education:
   - area: M.S. in Computer Application Technology
     institution: LIESMARS, Wuhan University
     date_start: 2023-09-01
-    date_end: present
+    date_end: 2026-06-30
     summary: |
       Supervised by [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm).
     button:
@@ -66,8 +66,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-6-30
     summary: |
-      GPA: 3.91/4.0
-      Rank: 7/123
+      GPA: 3.91/4.0, Rank: 7/123
 
       Courses included:
       - Robotics, Artificial Intelligence, Image Analysis, Embedded system, Signal Process
