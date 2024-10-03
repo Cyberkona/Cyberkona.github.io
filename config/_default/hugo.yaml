@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Cyberkona's Website
 # Website URL
+# Todo
 baseURL: 'https://example.com/'
 
 ############################

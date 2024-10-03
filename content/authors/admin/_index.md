@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tianxiang Zhang 张天翔
+title: Tianxiang Zhang
 
 # # Name pronunciation (optional)
 # name_pronunciation: Tianxiang Zhang
