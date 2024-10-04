@@ -51,7 +51,8 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Supervised by [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - Supervisor: [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm)
+      - Research interests: Multi-Sensor SLAM, 3D Reconstruction, Robotics
   - area: B.S. in Electronic Engineering
     institution: Wuhan University
     date_start: 2019-09-01
@@ -59,7 +60,7 @@ education:
     summary: |
       GPA: 3.9/4.0 (Top 10\% in program)
       - Specialization: Electronic Information Engineering
-      - Courses included: Signal&System, Robotics, Embedded System, Image Analysis, etc.
+      - Courses included: Signal&System, Robotics, Artificial intelligence, Embedded System, Image Analysis, Signal processing, etc.
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology (Shanghai)
@@ -67,7 +68,7 @@ work:
     company_logo: ''
     date_start: 2022-11-15
     date_end: 2023-03-15
-    summary: |2-
+    summary: |
       Automated Valet Parking (AVP):
       - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
 
