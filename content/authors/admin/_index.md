@@ -62,6 +62,7 @@ education:
       GPA: 3.9/4.0 (Top 10\% in program)
       - Specialization: Electronic Information Engineering
       - Courses included: Signal & System, Robotics, Artificial intelligence, Embedded System, Image Analysis, etc.
+
 work:
   - position: Autopilot Algorithm Engineer Intern
     title: Work
@@ -73,6 +74,9 @@ work:
     summary: |
       Automated Valet Parking (AVP):
       - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
+    button:
+      text: Download CV
+      url: uploads/CV-TianxianZhang.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
