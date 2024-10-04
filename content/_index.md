@@ -19,9 +19,12 @@ sections:
         text: Download CV
         url: uploads/CV-TianxianZhang.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: white
+      # css_class: dark
+      # background:
+      #   color: black
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
