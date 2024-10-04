@@ -74,9 +74,6 @@ work:
     summary: |
       Automated Valet Parking (AVP):
       - Responsible for the localization and perception modules for vehicles in AVP scenarios. Fusing fisheye cameras, wheel odometry and IMU to enable real-time, high-precision positioning for safe AVP.
-    button:
-      text: Download CV
-      url: uploads/CV-TianxianZhang.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
