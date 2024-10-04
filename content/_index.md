@@ -22,13 +22,13 @@ sections:
       # css_class: light
       # background:
       #   color: white
-      # css_class: dark
+      css_class: dark
       background:
-        # color: black
+        color: black
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
-          filename: '{{ if eq .Site.Params.theme "dark" }}star.svg{{ else }}{{ end }}'
+          filename: 'star.svg'
           filters:
             brightness: 1.0
           size: cover
