@@ -38,6 +38,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
   - block: markdown
     content:
       title: '📚 My Research'
