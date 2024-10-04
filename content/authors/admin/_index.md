@@ -51,8 +51,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Supervisor: <a href="https://jszy.whu.edu.cn/liyou1/en/index.htm">Prof. You Li</a>
-      - Supervisor: [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm)
+      - Supervisor: <a href="https://jszy.whu.edu.cn/liyou1/en/index.htm" target="_blank" rel="noopener noreferrer">Prof. You Li</a>
       - Research interests: Multi-Sensor SLAM, 3D Reconstruction, Robotics
   - area: B.S. in Electronic Engineering
     institution: Wuhan University
@@ -61,7 +60,7 @@ education:
     summary: |
       GPA: 3.9/4.0 (Top 10\% in program)
       - Specialization: Electronic Information Engineering
-      - Courses included: Signal&System, Robotics, Artificial intelligence, Embedded System, Image Analysis, Signal processing, etc.
+      - Courses included: Signal & System, Robotics, Artificial intelligence, Embedded System, Image Analysis, etc.
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology (Shanghai)
@@ -149,6 +148,8 @@ awards:
 
 ## About Me
 
-- Tianxiang Zhang is a second-year Master student in **[State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)**. He obtained Bachelor of Engineering in **Electronic Information School of Wuhan University**, and received the honour of **Outstanding Graduate**.
+- Tianxiang Zhang is a second-year Master student in **[State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)**. He obtained Bachelor of Engineering in **Electronic Information School of Wuhan University** with the honour of **Outstanding Graduate**.
 
-- His research interests include **Multi-Sensor Fusion SLAM**, **3D Reconstruction**, **Robotics**.
+- His research interests include **Multi-Sensor Fusion SLAM**, **3D Reconstruction**, **Robotics**. During his first year of M.S. study, he contributed two research works as first author: one has been accepted as **oral presentation** by **[IROS 2024](https://iros2024-abudhabi.org/)**, and the other is currently under review by ICRA 2025, both supervised by **[Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm)**.
+
+- He was awarded the **[National 1st Prize of Intel Cup Undergraduate Electronic Design Contest](https://nuedc.sjtu.edu.cn/EN/Default.aspx)**, and designated as **[Outstanding Winner and AMS Award of the Interdisciplinary Contest in Modeling(ICM)](https://contest.comap.com/undergraduate/contests/mcm/contests/2022/results/#f)** both in 2022. 
