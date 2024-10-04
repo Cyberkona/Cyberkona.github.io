@@ -47,6 +47,7 @@ interests:
 
 education:
   - area: M.S. in Computer Application Technology
+    title: Education
     institution: Wuhan University
     date_start: 2023-09-01
     date_end: ''
@@ -63,6 +64,7 @@ education:
       - Courses included: Signal & System, Robotics, Artificial intelligence, Embedded System, Image Analysis, etc.
 work:
   - position: Autopilot Algorithm Engineer Intern
+    title: Work
     company_name: Research Institute, MEGVII Technology (Shanghai)
     company_url: 'https://en.megvii.com/megvii_research'
     company_logo: ''
