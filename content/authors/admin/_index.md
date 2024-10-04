@@ -47,20 +47,20 @@ interests:
 
 education:
   - area: M.S. in Computer Application Technology
-    institution: Wuhan University
-    date_start: 2023-09-01
-    date_end: ''
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S. in Electronic Engineering
+  - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2019-09-01
-    date_end: 2023-6-30
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA 3.91/4.0, Rank: 7/123
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
