@@ -57,12 +57,9 @@ education:
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      GPA: 3.91/4.0, Rank: 7/123
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.9/4.0 (Top 10\% in program)
+      - Specialization: Electronic Information Engineering
+      - Courses included: Signal&System, Robotics, Embedded System, Image Analysis, etc.
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology (Shanghai)
