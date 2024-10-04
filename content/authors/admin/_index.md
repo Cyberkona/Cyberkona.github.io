@@ -49,23 +49,12 @@ education:
   - area: M.S. in Computer Application Technology
     institution: Wuhan University
     date_start: 2023-09-01
-    date_end: ''
+    date_end: 2026-6-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S. in Electronic Engineering
-    institution: Wuhan University
-    date_start: 2019-09-01
-    date_end: 2023-6-30
-    summary: |
-      GPA 3.91/4.0, Rank: 7/123
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology (Shanghai)
