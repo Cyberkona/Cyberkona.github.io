@@ -51,6 +51,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
+      Supervisor: [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm)
       - Supervisor: [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm)
       - Research interests: Multi-Sensor SLAM, 3D Reconstruction, Robotics
   - area: B.S. in Electronic Engineering
