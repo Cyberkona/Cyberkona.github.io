@@ -51,16 +51,13 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by [Prof. You Li](https://jszy.whu.edu.cn/liyou1/en/index.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   - area: B.S. in Electronic Engineering
     institution: Wuhan University
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      GPA: 3.91/4.0
+      GPA: 3.91/4.0, Rank: 7/123
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -69,7 +66,7 @@ education:
 work:
   - position: Autopilot Algorithm Engineer Intern
     company_name: Research Institute, MEGVII Technology (Shanghai)
-    company_url: ''
+    company_url: 'https://en.megvii.com/megvii_research'
     company_logo: ''
     date_start: 2022-11-15
     date_end: 2023-03-15
