@@ -10,8 +10,8 @@ first_name: Tianxiang
 last_name: Zhang
 
 # Status emoji
-status:
-  icon: 🦝
+# status:
+#   icon: 🦝
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,6 +39,8 @@ profiles:
     url: https://scholar.google.com/citations?hl=zh-CN&user=-zppXSUAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-4784-4548
+  - icon: academicons/cv
+    url: uploads/CV-TianxianZhang.pdf
 
 interests:
   - Multi-Sensor SLAM
